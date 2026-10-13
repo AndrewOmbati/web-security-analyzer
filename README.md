@@ -57,4 +57,4 @@ The tool provides a color-coded terminal output:
 This tool is for educational and authorized security testing purposes only. Do not use it to scan websites you do not have explicit permission to test.
 
 ---
-*Created as a cybersecurity portfolio project.*
+
